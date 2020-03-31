@@ -1,0 +1,11 @@
+{
+  "displayName" : "Last Logins",
+  "author" : ["Stefan ZIDAR"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "version" : "1.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "en" : "Show last logins to windows machine"
+  }
+}
